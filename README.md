@@ -1,5 +1,5 @@
 network-monitor
 ===============
 
-network monitoring in ruby
+Network monitoring in ruby
 
